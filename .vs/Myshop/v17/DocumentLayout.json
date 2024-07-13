@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\M8raby\\source\\repos\\Myshop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C9D7805-A040-4B06-B557-2AA1E1FF1AC5}|Myshop.Web\\Myshop.Web.csproj|c:\\users\\m8raby\\source\\repos\\myshop\\myshop.web\\views\\shared\\_dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C9D7805-A040-4B06-B557-2AA1E1FF1AC5}|Myshop.Web\\Myshop.Web.csproj|solutionrelative:myshop.web\\views\\shared\\_dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C9D7805-A040-4B06-B557-2AA1E1FF1AC5}|Myshop.Web\\Myshop.Web.csproj|c:\\users\\m8raby\\source\\repos\\myshop\\myshop.web\\views\\shared\\_toster.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C9D7805-A040-4B06-B557-2AA1E1FF1AC5}|Myshop.Web\\Myshop.Web.csproj|solutionrelative:myshop.web\\views\\shared\\_toster.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C9D7805-A040-4B06-B557-2AA1E1FF1AC5}|Myshop.Web\\Myshop.Web.csproj|c:\\users\\m8raby\\source\\repos\\myshop\\myshop.web\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C9D7805-A040-4B06-B557-2AA1E1FF1AC5}|Myshop.Web\\Myshop.Web.csproj|solutionrelative:myshop.web\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C9D7805-A040-4B06-B557-2AA1E1FF1AC5}|Myshop.Web\\Myshop.Web.csproj|c:\\users\\m8raby\\source\\repos\\myshop\\myshop.web\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C9D7805-A040-4B06-B557-2AA1E1FF1AC5}|Myshop.Web\\Myshop.Web.csproj|solutionrelative:myshop.web\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C9D7805-A040-4B06-B557-2AA1E1FF1AC5}|Myshop.Web\\Myshop.Web.csproj|c:\\users\\m8raby\\source\\repos\\myshop\\myshop.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C9D7805-A040-4B06-B557-2AA1E1FF1AC5}|Myshop.Web\\Myshop.Web.csproj|solutionrelative:myshop.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C9D7805-A040-4B06-B557-2AA1E1FF1AC5}|Myshop.Web\\Myshop.Web.csproj|c:\\users\\m8raby\\source\\repos\\myshop\\myshop.web\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C9D7805-A040-4B06-B557-2AA1E1FF1AC5}|Myshop.Web\\Myshop.Web.csproj|solutionrelative:myshop.web\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C9D7805-A040-4B06-B557-2AA1E1FF1AC5}|Myshop.Web\\Myshop.Web.csproj|c:\\users\\m8raby\\source\\repos\\myshop\\myshop.web\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C9D7805-A040-4B06-B557-2AA1E1FF1AC5}|Myshop.Web\\Myshop.Web.csproj|solutionrelative:myshop.web\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C9D7805-A040-4B06-B557-2AA1E1FF1AC5}|Myshop.Web\\Myshop.Web.csproj|c:\\users\\m8raby\\source\\repos\\myshop\\myshop.web\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4C9D7805-A040-4B06-B557-2AA1E1FF1AC5}|Myshop.Web\\Myshop.Web.csproj|solutionrelative:myshop.web\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Toster.cshtml",
+              "DocumentMoniker": "C:\\Users\\M8raby\\source\\repos\\Myshop\\Myshop.Web\\Views\\Shared\\_Toster.cshtml",
+              "RelativeDocumentMoniker": "Myshop.Web\\Views\\Shared\\_Toster.cshtml",
+              "ToolTip": "C:\\Users\\M8raby\\source\\repos\\Myshop\\Myshop.Web\\Views\\Shared\\_Toster.cshtml",
+              "RelativeToolTip": "Myshop.Web\\Views\\Shared\\_Toster.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-06T15:40:37.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\M8raby\\source\\repos\\Myshop\\Myshop.Web\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Myshop.Web\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\M8raby\\source\\repos\\Myshop\\Myshop.Web\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Myshop.Web\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAkwCAAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T15:00:39.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\M8raby\\source\\repos\\Myshop\\Myshop.Web\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "Myshop.Web\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\M8raby\\source\\repos\\Myshop\\Myshop.Web\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "Myshop.Web\\Views\\Category\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-03T15:58:06.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_DashBoard.cshtml",
+              "DocumentMoniker": "C:\\Users\\M8raby\\source\\repos\\Myshop\\Myshop.Web\\Views\\Shared\\_DashBoard.cshtml",
+              "RelativeDocumentMoniker": "Myshop.Web\\Views\\Shared\\_DashBoard.cshtml",
+              "ToolTip": "C:\\Users\\M8raby\\source\\repos\\Myshop\\Myshop.Web\\Views\\Shared\\_DashBoard.cshtml",
+              "RelativeToolTip": "Myshop.Web\\Views\\Shared\\_DashBoard.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEMBAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T18:33:57.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\M8raby\\source\\repos\\Myshop\\Myshop.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Myshop.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\M8raby\\source\\repos\\Myshop\\Myshop.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Myshop.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T15:26:13.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\M8raby\\source\\repos\\Myshop\\Myshop.Web\\Views\\Category\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Myshop.Web\\Views\\Category\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\M8raby\\source\\repos\\Myshop\\Myshop.Web\\Views\\Category\\Delete.cshtml",
+              "RelativeToolTip": "Myshop.Web\\Views\\Category\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T13:23:05.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\M8raby\\source\\repos\\Myshop\\Myshop.Web\\Views\\Category\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Myshop.Web\\Views\\Category\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\M8raby\\source\\repos\\Myshop\\Myshop.Web\\Views\\Category\\Edit.cshtml",
+              "RelativeToolTip": "Myshop.Web\\Views\\Category\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-03T21:23:24.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\M8raby\\source\\repos\\Myshop\\Myshop.Web\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "Myshop.Web\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\M8raby\\source\\repos\\Myshop\\Myshop.Web\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "Myshop.Web\\Views\\Category\\Create.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-03T16:27:38.594Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
