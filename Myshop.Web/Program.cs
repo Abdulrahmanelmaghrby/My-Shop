@@ -1,5 +1,7 @@
 using Microsoft.EntityFrameworkCore;
-using Myshop.Web.Data;
+using Myshop.DataAccess.Data;
+using Myshop.DataAccess.Implementaion;
+using Myshop.Entities.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -10,6 +12,7 @@ builder.Services.AddRazorPages()
 builder.Services.AddDbContext<ApplicationDbContext>(
         options => options.UseSqlServer("name=ConnectionStrings:DefaultConnection"));
 
+builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 //builder.Configuration.GetConnectionString("DefaultConnection")
 
 var app = builder.Build();

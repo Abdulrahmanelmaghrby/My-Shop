@@ -1,0 +1,15 @@
+C:\Users\M8raby\source\repos\Myshop\Myshop.Entities\bin\Debug\net8.0\Myshop.Entities.deps.json
+C:\Users\M8raby\source\repos\Myshop\Myshop.Entities\bin\Debug\net8.0\Myshop.Entities.dll
+C:\Users\M8raby\source\repos\Myshop\Myshop.Entities\bin\Debug\net8.0\Myshop.Entities.pdb
+C:\Users\M8raby\source\repos\Myshop\Myshop.Entities\obj\Debug\net8.0\Myshop.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M8raby\source\repos\Myshop\Myshop.Entities\obj\Debug\net8.0\Myshop.Entities.AssemblyInfoInputs.cache
+C:\Users\M8raby\source\repos\Myshop\Myshop.Entities\obj\Debug\net8.0\Myshop.Entities.AssemblyInfo.cs
+C:\Users\M8raby\source\repos\Myshop\Myshop.Entities\obj\Debug\net8.0\Myshop.Entities.csproj.CoreCompileInputs.cache
+C:\Users\M8raby\source\repos\Myshop\Myshop.Entities\obj\Debug\net8.0\Myshop.Entities.sourcelink.json
+C:\Users\M8raby\source\repos\Myshop\Myshop.Entities\obj\Debug\net8.0\Myshop.Entities.dll
+C:\Users\M8raby\source\repos\Myshop\Myshop.Entities\obj\Debug\net8.0\refint\Myshop.Entities.dll
+C:\Users\M8raby\source\repos\Myshop\Myshop.Entities\obj\Debug\net8.0\Myshop.Entities.pdb
+C:\Users\M8raby\source\repos\Myshop\Myshop.Entities\obj\Debug\net8.0\ref\Myshop.Entities.dll
+C:\Users\M8raby\source\repos\Myshop\Myshop.Entities\bin\Debug\net8.0\Myshop.Entities.runtimeconfig.json
+C:\Users\M8raby\source\repos\Myshop\Myshop.Entities\obj\Debug\net8.0\Myshop.Entities.csproj.AssemblyReference.cache
+C:\Users\M8raby\source\repos\Myshop\Myshop.Entities\obj\Debug\net8.0\Myshop.Entities.genruntimeconfig.cache
