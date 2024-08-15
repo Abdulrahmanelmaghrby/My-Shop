@@ -21,7 +21,7 @@ namespace Myshop.DataAccess.Implementaion
 
         public void Update(Category category)
         {
-            var CategoryInDb=_context.Categories.SingleOrDefault(x => x.Id == category.Id);
+            var CategoryInDb=_context.Categories.FirstOrDefault(x => x.Id == category.Id);
             if (CategoryInDb != null)
             {
                 CategoryInDb.Name=category.Name ;

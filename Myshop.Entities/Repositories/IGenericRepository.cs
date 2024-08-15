@@ -15,7 +15,7 @@ namespace Myshop.Entities.Repositories
 
         IEnumerable<T> GetAll(Expression<Func<T, bool>>? predicate=null, string? Includeword = null);
 
-        T GetSingleOrdefault(Expression<Func<T, bool>>? predicate=null, string? Includeword = null);
+        T GetFristorDefault(Expression<Func<T, bool>>? predicate=null, string? Includeword = null);
       //  _context.Categories.Add(category);
         void Add(T entity);
        // _context.Categories.Remove(category);

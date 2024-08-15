@@ -5,6 +5,7 @@ using Myshop.Entities.Repositories;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -45,7 +46,7 @@ namespace Myshop.DataAccess.Implementaion
             return quary.ToList();
         }
 
-        public T GetSingleOrdefault(System.Linq.Expressions.Expression<Func<T, bool>>? predicate, string? Includeword)
+        public T GetFristorDefault(Expression<Func<T, bool>>? predicate, string? Includeword)
         {
             IQueryable<T> quary = _dbSet;
             if (predicate != null)

@@ -559,3 +559,5 @@ C:\Users\M8raby\source\repos\Myshop\Myshop.Web\obj\Debug\net8.0\refint\Myshop.We
 C:\Users\M8raby\source\repos\Myshop\Myshop.Web\obj\Debug\net8.0\Myshop.Web.pdb
 C:\Users\M8raby\source\repos\Myshop\Myshop.Web\obj\Debug\net8.0\Myshop.Web.genruntimeconfig.cache
 C:\Users\M8raby\source\repos\Myshop\Myshop.Web\obj\Debug\net8.0\ref\Myshop.Web.dll
+C:\Users\M8raby\source\repos\Myshop\Myshop.Web\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\M8raby\source\repos\Myshop\Myshop.Web\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll

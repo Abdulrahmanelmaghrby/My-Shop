@@ -11,7 +11,8 @@
     <link rel="stylesheet" href="/plugins/fontawesome-free/css/all.min.css">
     <!-- Theme style -->
     <link rel="stylesheet" href="/css/adminlte.min.css">
-    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/css/toastr.min.css">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/css/toastr.min.css"> @* toster css files  *@
+    <link rel="stylesheet" href="//cdn.datatables.net/2.1.2/css/dataTables.dataTables.min.css" />
 
 </head>
 <body class="hold-transition sidebar-mini">
@@ -196,7 +197,6 @@
                                 <i class="nav-icon fas fa-tachometer-alt"></i>
                                 <p>
                                     Dashboard
-                                   
                                 </p>
                             </a>
 
@@ -206,7 +206,6 @@
                                 <i class="nav-icon fas fa-tachometer-alt"></i>
                                 <p>
                                     Categories
-                                    
                                 </p>
                             </a>
 
@@ -216,7 +215,6 @@
                                 <i class="nav-icon fas fa-tachometer-alt"></i>
                                 <p>
                                     Products
-                                   
                                 </p>
                             </a>
                         </li>
@@ -225,7 +223,6 @@
                                 <i class="nav-icon fas fa-tachometer-alt"></i>
                                 <p>
                                     Users
-                                    
                                 </p>
                             </a>
 
@@ -235,7 +232,6 @@
                                 <i class="nav-icon fas fa-tachometer-alt"></i>
                                 <p>
                                     Orders
-                                    
                                 </p>
                             </a>
 
@@ -316,8 +312,16 @@
     <script src="/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
     <!-- AdminLTE App -->
     <script src="/js/adminlte.min.js"></script>
-    <!-- AdminLTE for demo purposes -->
-    <script src="/js/demo.js"></script>
+    
+    <!-- data table jquery -->
+    <script src="//cdn.datatables.net/2.1.2/js/dataTables.min.js"></script>
+
+    <!-- Toastr js file -->
+    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js"></script>
+    <!-- select2 js file -->
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
+
     @await RenderSectionAsync("Scripts", required: false)
 </body>
 </html>

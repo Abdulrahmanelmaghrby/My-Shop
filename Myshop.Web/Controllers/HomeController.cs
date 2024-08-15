@@ -4,8 +4,10 @@ using System.Diagnostics;
 
 namespace Myshop.Web.Controllers
 {
+    [Area("Admin")]
     public class HomeController : Controller
     {
+
         private readonly ILogger<HomeController> _logger;
 
         public HomeController(ILogger<HomeController> logger)
