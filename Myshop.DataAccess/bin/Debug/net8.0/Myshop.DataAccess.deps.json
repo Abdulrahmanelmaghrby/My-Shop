@@ -2013,7 +2013,10 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.7"
         },
         "runtime": {
-          "Myshop.Entities.dll": {}
+          "Myshop.Entities.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

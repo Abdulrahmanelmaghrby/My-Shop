@@ -37,6 +37,10 @@
       "PackagePath": "staticwebassets\\Images\\Products\\afef98ea-ecd5-4b36-8e25-cdf16958f772.jpg"
     },
     {
+      "Id": "C:\\Users\\M8raby\\source\\repos\\Myshop\\Myshop.Web\\wwwroot\\Images\\Products\\b0650665-0f60-48a4-b55a-bbaae5efed4a.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Products\\b0650665-0f60-48a4-b55a-bbaae5efed4a.jpeg"
+    },
+    {
       "Id": "C:\\Users\\M8raby\\source\\repos\\Myshop\\Myshop.Web\\wwwroot\\Images\\Products\\b6a35d2d-b963-405e-9fbc-6e7c069abf05.jpg",
       "PackagePath": "staticwebassets\\Images\\Products\\b6a35d2d-b963-405e-9fbc-6e7c069abf05.jpg"
     },
@@ -167,6 +171,18 @@
     {
       "Id": "C:\\Users\\M8raby\\source\\repos\\Myshop\\Myshop.Web\\wwwroot\\css\\summary.css",
       "PackagePath": "staticwebassets\\css\\summary.css"
+    },
+    {
+      "Id": "C:\\Users\\M8raby\\source\\repos\\Myshop\\Myshop.Web\\wwwroot\\customer\\assets\\favicon.ico",
+      "PackagePath": "staticwebassets\\customer\\assets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\M8raby\\source\\repos\\Myshop\\Myshop.Web\\wwwroot\\customer\\css\\styles.css",
+      "PackagePath": "staticwebassets\\customer\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\M8raby\\source\\repos\\Myshop\\Myshop.Web\\wwwroot\\customer\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\customer\\js\\scripts.js"
     },
     {
       "Id": "C:\\Users\\M8raby\\source\\repos\\Myshop\\Myshop.Web\\wwwroot\\favicon.ico",
