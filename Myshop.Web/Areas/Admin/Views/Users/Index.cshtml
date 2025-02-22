@@ -1,0 +1,49 @@
+﻿@model IEnumerable<ApplicationUser>
+@{
+    ViewBag.PageTitlle = "User Management";
+    ViewBag.CardTitlle = " User List";
+    Layout = "~/Views/Shared/_DashBoard.cshtml";
+
+}
+
+<div>
+    <div class="mb-3">
+       @*  <a class="btn btn-primary" asp-action="Create" asp-controller="Category">Create</a> *@
+        <a class="btn btn-primary" href="/Identity/Account/Register">Create new user</a>
+
+    </div>
+    <table class="table table-hover" width="100%">
+        <tr>
+            <td>Name</td>
+            <td>Email</td>
+            <td>Address</td>
+            <td>City</td>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Name</td>
+                <td>@item.Email</td>
+                <td>@item.address</td>
+                <td>@item.City</td>
+                <td>
+                   @if(item.LockoutEnd==null|item.LockoutEnd<DateTime.Now)
+                    {
+                        <a class="btn btn-success" asp-action="LockUnlock" asp-route-id="@item.Id">
+                            <i class="fas fa-lock-open"></i>
+                        </a>
+                    }
+                    else
+                    {
+                        <a class="btn btn-danger" asp-action="LockUnlock" asp-route-id="@item.Id">
+                            <i class="fas fa-lock"></i>
+                        </a>
+                    }
+                    
+                    <a class="btn btn-danger" asp-action="Delete" asp-controller="Category" asp-route-id="@item.Id">Delete</a>
+                </td>
+            </tr>
+        }
+
+    </table>
+</div>
